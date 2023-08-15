@@ -1,0 +1,22 @@
+h1{
+    font-size: xx-large;
+    font-style: normal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font: blue;
+    text-align: center;
+}
+head{
+    background-color: antiquewhite;
+}
+body{
+    color: blue ;
+    background-color: greenyellow;
+    font-size: xx-large;
+    text-align: center;
+}
+.amount{
+    background-color: #199319;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+}
